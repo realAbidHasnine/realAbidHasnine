@@ -1,6 +1,6 @@
 # ABID HASNINE
 
-![Views](https://komarev.com/ghpvc/?username=realAbidHasnine&label=VIEWS&color=000000&labelColor=FFFFFF&style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=realAbidHasnine&label=Views&color=0e75b6&style=flat-square)
 
 ---
 
