@@ -6,6 +6,12 @@
 
 ---
 
+### What I'm Currently Learning
+
+I'm diving deep into Java at a systems level, alongside Spring Boot for building enterprise-grade applications. I'm also exploring Docker and RabbitMQ to design reliable, production-ready microservices architectures. On top of that, I'm working on integrating AI into these systems to make them smarter and more scalable.
+
+---
+
 ### TECH STACK
 
 <p align="center">
